@@ -1,0 +1,3 @@
+var x = 24;
+var y = "Hello";
+x + y   // Returns "24Hello"; 
